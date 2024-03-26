@@ -1,50 +1,16 @@
-    1  gít log
-    2  git checkout
-    3  nano README.md
-    4  cat README.md
-    5  git status
-    6  ls
-    7  cd git-basic-exercises
-    8  ls -a
-    9  git status
+    1  git branch
+    2  ls
+    3  cd git-basic-exercises
+    4  git branch
+    5  git checkout history
+    6  cat README.md
+    7  git log
+    8  git branch
+    9  git checkout milkshake-flavours
    10  git log
-   11  q
-   12  pkg install q-dns-client
-   13  q
-   14  nano README.md
-   15  cat README.md
-   16  git status
-   17  git add README.md
-   18  git commit -m "Second commit"
-   19  git add README.md
-   20  git commit -m "third commit"
-   21  git log
-   22  nano README.md
-   23  cat READMS.md
-   24  cat README.md
-   25  git add README.md
-   26  git commit -m "third commit"
-   27  git log
-   28  git branch
-   29  git branch milkshake-flavours
-   30  git branch
-   31  git checkout milkshake-flavours
-   32  git branch
-   33  nano milkshakes.md
-   34  git status
-   35  git add milkshakes.md
-   36  git commit -m "added initial flavours"
-   37  git log
-   38  git checkout main
-   39  git checkout master
-   40  git status
-   41  git log
-   42  git checkout master
-   43  git branch history
-   44  git checkout history
-   45  git loh
-   46  git log
-   47  git branch
-   48  history>history.txt
-   49  git log
-   50  history>history.txt
+   11  git checkout master
+   12  git branch
+   13  git log
+   14  git checkout history
+   15  git log
+   16  history>history.txt
