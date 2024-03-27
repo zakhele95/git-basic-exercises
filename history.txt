@@ -1,0 +1,16 @@
+    1  git branch
+    2  ls
+    3  cd git-basic-exercises
+    4  git branch
+    5  git checkout history
+    6  cat README.md
+    7  git log
+    8  git branch
+    9  git checkout milkshake-flavours
+   10  git log
+   11  git checkout master
+   12  git branch
+   13  git log
+   14  git checkout history
+   15  git log
+   16  history>history.txt
